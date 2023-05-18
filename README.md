@@ -1,6 +1,6 @@
 ## Estudo de consumo GraphQl com SolidJS
 
-Praticando e organizando projetos Web. Neste projeto eu utilizo o Solid-JS, uma ferramenta sensacional, onde faço conmsumo de dados via GraphQL.
+Praticando e organizando projetos Web. Neste projeto eu utilizo o Solid-JS uma ferramenta sensacional, onde eu fiz o consumo de api GraphQL.
 <br>
 <br>
 Para estudo estou utilizando à API Publica chamada de The Rick and Morty confira -> https://rickandmortyapi.com/graphql
